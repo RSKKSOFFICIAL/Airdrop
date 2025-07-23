@@ -1,8 +1,8 @@
-# Merkle Airdrop Extravaganza 
+# Merkle Airdrop 
 
 This is a section of the [Cyfrin Updraft Advanced Foundry Course](https://updraft.cyfrin.io/). In this repo, we will learn about signatures, merkle drops, and more. 
 
-- [Merkle Airdrop Extravaganza](#merkle-airdrop-extravaganza)
+- [Merkle Airdrop ](#merkle-airdrop-extravaganza)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -279,4 +279,4 @@ forge fmt
 
 # Thank you!
 
-If you appreciated this, please follow [Cyfrin Updraft!](https://x.com/CyfrinUpdraft)
+If you appreciated this, please follow [Cyfrin Updraft](https://x.com/CyfrinUpdraft)and [Ravi Shankar!](https://x.com/RaviShanka5139)
