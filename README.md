@@ -279,4 +279,4 @@ forge fmt
 
 # Thank you!
 
-If you appreciated this, please follow [Cyfrin Updraft](https://x.com/CyfrinUpdraft)and [Ravi Shankar!](https://x.com/RaviShanka5139)
+If you appreciated this, please follow [Cyfrin Updraft](https://x.com/CyfrinUpdraft) and [Ravi Shankar](https://x.com/RaviShanka5139) !
